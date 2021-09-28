@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm David Ibañez</h1>
+<h1 align="center">Hola 👋, Soy David Ibañez</h1>
 <h3 align="center">Me gusta mucho jugar voleibol y escuchar música, nunca he tenido la oportunidad de aprender sobre programación, pero para eso estoy acá.</h3>
 
 - 🔭 actualmente estudio en la **Universidad Ean y estoy en el programa de ing. Mecatronica**
